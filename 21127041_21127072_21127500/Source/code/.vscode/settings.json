@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "utilities.h": "c",
+        "*.tcc": "c",
+        "ostream": "c",
+        "new": "cpp",
+        "system_error": "cpp",
+        "iostream": "cpp",
+        "string_view": "c"
+    }
+}
